@@ -1,3 +1,3 @@
 # Headline
 
-> An awesome project.
+[线性代数](math/线性代数)
